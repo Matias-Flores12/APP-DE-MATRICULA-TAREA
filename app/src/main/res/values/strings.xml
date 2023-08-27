@@ -1,0 +1,17 @@
+<resources>
+        <string name="app_name">My Application</string>
+
+        <string-array name="escuelas_array">
+                <item>FIA</item>
+                <item>FACIED</item>
+                <item>EDUCACION</item>
+                <item>SALUD</item>
+        </string-array>
+
+        <string-array name="carreras_array">
+                <item>INGENIERIA DE SISTEMAS</item>
+                <item>MEDICINA</item>
+                <item>ARQUITECTURA</item>
+                <item>CONTABILIDAD</item>
+        </string-array>
+</resources>
